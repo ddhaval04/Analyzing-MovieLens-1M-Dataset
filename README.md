@@ -8,6 +8,9 @@ numpy
 pandas
 matplotlib
 ```
+## TL;DR
+
+For a more detailed analysis, please refer to the ipython notebook.
 
 ## DATA PRE-PROCESSING:
 
